@@ -1,5 +1,7 @@
 {
   "name": "ChucktownFloodsHack",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
