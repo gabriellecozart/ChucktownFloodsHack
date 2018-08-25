@@ -17,6 +17,7 @@ To start the webserver run `ionic serve` inside the project directory.
 To add a new page run `ionic g page page_name`
 
 Add an import to the `home.ts` file:
+
 `import {Page_Name} from '../page_name/page_name';`
 
 And then add `page_name = Page_Name;` to the HomePage constructor.
